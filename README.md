@@ -9,3 +9,8 @@ Ive personally used this to help with my eye issues(sensitivity to the light, fa
 
 To run: 
 colorfilterOverlayWindow.exe #00ff00 20
+
+
+
+Good colors:
+
